@@ -1,4 +1,4 @@
-# Hemas SOP Generator — Engineer 2 Module
+# Hemas SOP Generator 
 
 This module is responsible for taking a manager's voice recording and converting it into a fully structured Standard Operating Procedure (SOP) document. It is one component in a larger multi-engineer pipeline built for Hemas.
 
